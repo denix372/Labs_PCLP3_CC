@@ -1,0 +1,702 @@
+{
+    "001": {
+        "name": "Water",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 2.88,
+        "quantity": 75,
+        "category": "drinks"
+    },
+    "002": {
+        "name": "Sour Cream",
+        "description": "Products are fresh from the farm.",
+        "price": 12.42,
+        "quantity": 69,
+        "category": "dairy"
+    },
+    "003": {
+        "name": "Bananas",
+        "description": "Products are fresh and healthy.",
+        "price": 4.7,
+        "quantity": 25,
+        "category": "fruits"
+    },
+    "004": {
+        "name": "Kiwis",
+        "description": "Products are fresh and healthy.",
+        "price": 8.83,
+        "quantity": 77,
+        "category": "fruits"
+    },
+    "005": {
+        "name": "Tomatoes",
+        "description": "Products are natural and nourishing.",
+        "price": 13.31,
+        "quantity": 30,
+        "category": "vegetables"
+    },
+    "006": {
+        "name": "Orange Juice",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 8.43,
+        "quantity": 83,
+        "category": "drinks"
+    },
+    "007": {
+        "name": "Tea",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 9.85,
+        "quantity": 91,
+        "category": "drinks"
+    },
+    "008": {
+        "name": "Yogurt",
+        "description": "Products are fresh from the farm.",
+        "price": 18.65,
+        "quantity": 69,
+        "category": "dairy"
+    },
+    "009": {
+        "name": "Apples",
+        "description": "Products are fresh and healthy.",
+        "price": 7.21,
+        "quantity": 57,
+        "category": "fruits"
+    },
+    "010": {
+        "name": "Cheese",
+        "description": "Products are fresh from the farm.",
+        "price": 18.89,
+        "quantity": 26,
+        "category": "dairy"
+    },
+    "011": {
+        "name": "Beer",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 19.52,
+        "quantity": 41,
+        "category": "drinks"
+    },
+    "012": {
+        "name": "Sour Cream",
+        "description": "Products are fresh from the farm.",
+        "price": 3.9,
+        "quantity": 15,
+        "category": "dairy"
+    },
+    "013": {
+        "name": "Cucumbers",
+        "description": "Products are natural and nourishing.",
+        "price": 6.21,
+        "quantity": 95,
+        "category": "vegetables"
+    },
+    "014": {
+        "name": "Cookies",
+        "description": "Products are perfect for a quick bite.",
+        "price": 19.07,
+        "quantity": 20,
+        "category": "snacks"
+    },
+    "015": {
+        "name": "Pasta",
+        "description": "Products are essential for a balanced diet.",
+        "price": 7.15,
+        "quantity": 81,
+        "category": "grains"
+    },
+    "016": {
+        "name": "Butter",
+        "description": "Products are fresh from the farm.",
+        "price": 18.67,
+        "quantity": 61,
+        "category": "dairy"
+    },
+    "017": {
+        "name": "Cucumbers",
+        "description": "Products are natural and nourishing.",
+        "price": 17.24,
+        "quantity": 58,
+        "category": "vegetables"
+    },
+    "018": {
+        "name": "Oats",
+        "description": "Products are essential for a balanced diet.",
+        "price": 16.95,
+        "quantity": 14,
+        "category": "grains"
+    },
+    "019": {
+        "name": "Eggplants",
+        "description": "Products are natural and nourishing.",
+        "price": 4.04,
+        "quantity": 41,
+        "category": "vegetables"
+    },
+    "020": {
+        "name": "Chocolate",
+        "description": "Products are perfect for a quick bite.",
+        "price": 18.75,
+        "quantity": 92,
+        "category": "snacks"
+    },
+    "021": {
+        "name": "Water",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 9.62,
+        "quantity": 43,
+        "category": "drinks"
+    },
+    "022": {
+        "name": "Nuts",
+        "description": "Products are perfect for a quick bite.",
+        "price": 19.48,
+        "quantity": 97,
+        "category": "snacks"
+    },
+    "023": {
+        "name": "Chocolate",
+        "description": "Products are perfect for a quick bite.",
+        "price": 16.11,
+        "quantity": 60,
+        "category": "snacks"
+    },
+    "024": {
+        "name": "Sour Cream",
+        "description": "Products are fresh from the farm.",
+        "price": 15.05,
+        "quantity": 49,
+        "category": "dairy"
+    },
+    "025": {
+        "name": "Water",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 6.44,
+        "quantity": 99,
+        "category": "drinks"
+    },
+    "026": {
+        "name": "Chocolate",
+        "description": "Products are perfect for a quick bite.",
+        "price": 11.72,
+        "quantity": 46,
+        "category": "snacks"
+    },
+    "027": {
+        "name": "Yogurt",
+        "description": "Products are fresh from the farm.",
+        "price": 6.35,
+        "quantity": 48,
+        "category": "dairy"
+    },
+    "028": {
+        "name": "Crackers",
+        "description": "Products are perfect for a quick bite.",
+        "price": 18.39,
+        "quantity": 45,
+        "category": "snacks"
+    },
+    "029": {
+        "name": "Apples",
+        "description": "Products are fresh and healthy.",
+        "price": 10.09,
+        "quantity": 30,
+        "category": "fruits"
+    },
+    "030": {
+        "name": "Cucumbers",
+        "description": "Products are natural and nourishing.",
+        "price": 10.97,
+        "quantity": 85,
+        "category": "vegetables"
+    },
+    "031": {
+        "name": "Oranges",
+        "description": "Products are fresh and healthy.",
+        "price": 10.11,
+        "quantity": 64,
+        "category": "fruits"
+    },
+    "032": {
+        "name": "Cherries",
+        "description": "Products are fresh and healthy.",
+        "price": 4.49,
+        "quantity": 22,
+        "category": "fruits"
+    },
+    "033": {
+        "name": "Oats",
+        "description": "Products are essential for a balanced diet.",
+        "price": 16.84,
+        "quantity": 99,
+        "category": "grains"
+    },
+    "034": {
+        "name": "Tea",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 14.84,
+        "quantity": 84,
+        "category": "drinks"
+    },
+    "035": {
+        "name": "Coffee",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 16.32,
+        "quantity": 20,
+        "category": "drinks"
+    },
+    "036": {
+        "name": "Oats",
+        "description": "Products are essential for a balanced diet.",
+        "price": 4.63,
+        "quantity": 13,
+        "category": "grains"
+    },
+    "037": {
+        "name": "Coffee",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 1.09,
+        "quantity": 24,
+        "category": "drinks"
+    },
+    "038": {
+        "name": "Carrots",
+        "description": "Products are natural and nourishing.",
+        "price": 18.56,
+        "quantity": 51,
+        "category": "vegetables"
+    },
+    "039": {
+        "name": "Eggplants",
+        "description": "Products are natural and nourishing.",
+        "price": 19.03,
+        "quantity": 46,
+        "category": "vegetables"
+    },
+    "040": {
+        "name": "Beer",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 15.67,
+        "quantity": 81,
+        "category": "drinks"
+    },
+    "041": {
+        "name": "Yogurt",
+        "description": "Products are fresh from the farm.",
+        "price": 3.94,
+        "quantity": 55,
+        "category": "dairy"
+    },
+    "042": {
+        "name": "Chocolate",
+        "description": "Products are perfect for a quick bite.",
+        "price": 9.74,
+        "quantity": 72,
+        "category": "snacks"
+    },
+    "043": {
+        "name": "Sour Cream",
+        "description": "Products are fresh from the farm.",
+        "price": 5.95,
+        "quantity": 72,
+        "category": "dairy"
+    },
+    "044": {
+        "name": "Kiwis",
+        "description": "Products are fresh and healthy.",
+        "price": 15.81,
+        "quantity": 62,
+        "category": "fruits"
+    },
+    "045": {
+        "name": "Cookies",
+        "description": "Products are perfect for a quick bite.",
+        "price": 1.79,
+        "quantity": 73,
+        "category": "snacks"
+    },
+    "046": {
+        "name": "Carrots",
+        "description": "Products are natural and nourishing.",
+        "price": 5.54,
+        "quantity": 32,
+        "category": "vegetables"
+    },
+    "047": {
+        "name": "Peppers",
+        "description": "Products are natural and nourishing.",
+        "price": 2.17,
+        "quantity": 75,
+        "category": "vegetables"
+    },
+    "048": {
+        "name": "Cucumbers",
+        "description": "Products are natural and nourishing.",
+        "price": 14.53,
+        "quantity": 29,
+        "category": "vegetables"
+    },
+    "049": {
+        "name": "Rice",
+        "description": "Products are essential for a balanced diet.",
+        "price": 9.53,
+        "quantity": 71,
+        "category": "grains"
+    },
+    "050": {
+        "name": "Cereal",
+        "description": "Products are essential for a balanced diet.",
+        "price": 2.04,
+        "quantity": 30,
+        "category": "grains"
+    },
+    "051": {
+        "name": "Yogurt",
+        "description": "Products are fresh from the farm.",
+        "price": 4.22,
+        "quantity": 84,
+        "category": "dairy"
+    },
+    "052": {
+        "name": "Beer",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 2.78,
+        "quantity": 15,
+        "category": "drinks"
+    },
+    "053": {
+        "name": "Cheese",
+        "description": "Products are fresh from the farm.",
+        "price": 8.23,
+        "quantity": 46,
+        "category": "dairy"
+    },
+    "054": {
+        "name": "Kiwis",
+        "description": "Products are fresh and healthy.",
+        "price": 3.86,
+        "quantity": 28,
+        "category": "fruits"
+    },
+    "055": {
+        "name": "Tea",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 18.72,
+        "quantity": 38,
+        "category": "drinks"
+    },
+    "056": {
+        "name": "Milk",
+        "description": "Products are fresh from the farm.",
+        "price": 4.88,
+        "quantity": 52,
+        "category": "dairy"
+    },
+    "057": {
+        "name": "Nuts",
+        "description": "Products are perfect for a quick bite.",
+        "price": 4.7,
+        "quantity": 71,
+        "category": "snacks"
+    },
+    "058": {
+        "name": "Cheese",
+        "description": "Products are fresh from the farm.",
+        "price": 15.69,
+        "quantity": 24,
+        "category": "dairy"
+    },
+    "059": {
+        "name": "Butter",
+        "description": "Products are fresh from the farm.",
+        "price": 13.51,
+        "quantity": 56,
+        "category": "dairy"
+    },
+    "060": {
+        "name": "Crackers",
+        "description": "Products are perfect for a quick bite.",
+        "price": 11.19,
+        "quantity": 32,
+        "category": "snacks"
+    },
+    "061": {
+        "name": "Orange Juice",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 6.41,
+        "quantity": 82,
+        "category": "drinks"
+    },
+    "062": {
+        "name": "Coffee",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 12.91,
+        "quantity": 76,
+        "category": "drinks"
+    },
+    "063": {
+        "name": "Crackers",
+        "description": "Products are perfect for a quick bite.",
+        "price": 5.57,
+        "quantity": 67,
+        "category": "snacks"
+    },
+    "064": {
+        "name": "Nuts",
+        "description": "Products are perfect for a quick bite.",
+        "price": 3.91,
+        "quantity": 97,
+        "category": "snacks"
+    },
+    "065": {
+        "name": "Oranges",
+        "description": "Products are fresh and healthy.",
+        "price": 1.18,
+        "quantity": 29,
+        "category": "fruits"
+    },
+    "066": {
+        "name": "Cheese",
+        "description": "Products are fresh from the farm.",
+        "price": 8.13,
+        "quantity": 94,
+        "category": "dairy"
+    },
+    "067": {
+        "name": "Chocolate",
+        "description": "Products are perfect for a quick bite.",
+        "price": 10.33,
+        "quantity": 60,
+        "category": "snacks"
+    },
+    "068": {
+        "name": "Cucumbers",
+        "description": "Products are natural and nourishing.",
+        "price": 13.45,
+        "quantity": 47,
+        "category": "vegetables"
+    },
+    "069": {
+        "name": "Cheese",
+        "description": "Products are fresh from the farm.",
+        "price": 16.08,
+        "quantity": 54,
+        "category": "dairy"
+    },
+    "070": {
+        "name": "Cheese",
+        "description": "Products are fresh from the farm.",
+        "price": 18.86,
+        "quantity": 37,
+        "category": "dairy"
+    },
+    "071": {
+        "name": "Carrots",
+        "description": "Products are natural and nourishing.",
+        "price": 14.8,
+        "quantity": 25,
+        "category": "vegetables"
+    },
+    "072": {
+        "name": "Water",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 7.89,
+        "quantity": 17,
+        "category": "drinks"
+    },
+    "073": {
+        "name": "Rice",
+        "description": "Products are essential for a balanced diet.",
+        "price": 13.64,
+        "quantity": 55,
+        "category": "grains"
+    },
+    "074": {
+        "name": "Apples",
+        "description": "Products are fresh and healthy.",
+        "price": 11.57,
+        "quantity": 33,
+        "category": "fruits"
+    },
+    "075": {
+        "name": "Tea",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 7.15,
+        "quantity": 44,
+        "category": "drinks"
+    },
+    "076": {
+        "name": "Oats",
+        "description": "Products are essential for a balanced diet.",
+        "price": 6.79,
+        "quantity": 79,
+        "category": "grains"
+    },
+    "077": {
+        "name": "Nuts",
+        "description": "Products are perfect for a quick bite.",
+        "price": 16.5,
+        "quantity": 49,
+        "category": "snacks"
+    },
+    "078": {
+        "name": "Cookies",
+        "description": "Products are perfect for a quick bite.",
+        "price": 9.23,
+        "quantity": 27,
+        "category": "snacks"
+    },
+    "079": {
+        "name": "Cheese",
+        "description": "Products are fresh from the farm.",
+        "price": 15.49,
+        "quantity": 99,
+        "category": "dairy"
+    },
+    "080": {
+        "name": "Rice",
+        "description": "Products are essential for a balanced diet.",
+        "price": 9.04,
+        "quantity": 95,
+        "category": "grains"
+    },
+    "081": {
+        "name": "Cookies",
+        "description": "Products are perfect for a quick bite.",
+        "price": 14.47,
+        "quantity": 74,
+        "category": "snacks"
+    },
+    "082": {
+        "name": "Sour Cream",
+        "description": "Products are fresh from the farm.",
+        "price": 11.78,
+        "quantity": 11,
+        "category": "dairy"
+    },
+    "083": {
+        "name": "Peppers",
+        "description": "Products are natural and nourishing.",
+        "price": 7.45,
+        "quantity": 51,
+        "category": "vegetables"
+    },
+    "084": {
+        "name": "Carrots",
+        "description": "Products are natural and nourishing.",
+        "price": 2.31,
+        "quantity": 43,
+        "category": "vegetables"
+    },
+    "085": {
+        "name": "Coffee",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 10.19,
+        "quantity": 43,
+        "category": "drinks"
+    },
+    "086": {
+        "name": "Peppers",
+        "description": "Products are natural and nourishing.",
+        "price": 10.79,
+        "quantity": 26,
+        "category": "vegetables"
+    },
+    "087": {
+        "name": "Sour Cream",
+        "description": "Products are fresh from the farm.",
+        "price": 4.96,
+        "quantity": 29,
+        "category": "dairy"
+    },
+    "088": {
+        "name": "Sour Cream",
+        "description": "Products are fresh from the farm.",
+        "price": 13.66,
+        "quantity": 75,
+        "category": "dairy"
+    },
+    "089": {
+        "name": "Apples",
+        "description": "Products are fresh and healthy.",
+        "price": 19.62,
+        "quantity": 34,
+        "category": "fruits"
+    },
+    "090": {
+        "name": "Apples",
+        "description": "Products are fresh and healthy.",
+        "price": 19.45,
+        "quantity": 51,
+        "category": "fruits"
+    },
+    "091": {
+        "name": "Orange Juice",
+        "description": "Products are refreshing and full of flavor.",
+        "price": 6.97,
+        "quantity": 42,
+        "category": "drinks"
+    },
+    "092": {
+        "name": "Sour Cream",
+        "description": "Products are fresh from the farm.",
+        "price": 19.15,
+        "quantity": 83,
+        "category": "dairy"
+    },
+    "093": {
+        "name": "Rice",
+        "description": "Products are essential for a balanced diet.",
+        "price": 10.5,
+        "quantity": 68,
+        "category": "grains"
+    },
+    "094": {
+        "name": "Nuts",
+        "description": "Products are perfect for a quick bite.",
+        "price": 10.55,
+        "quantity": 32,
+        "category": "snacks"
+    },
+    "095": {
+        "name": "Nuts",
+        "description": "Products are perfect for a quick bite.",
+        "price": 18.95,
+        "quantity": 100,
+        "category": "snacks"
+    },
+    "096": {
+        "name": "Carrots",
+        "description": "Products are natural and nourishing.",
+        "price": 1.68,
+        "quantity": 45,
+        "category": "vegetables"
+    },
+    "097": {
+        "name": "Cheese",
+        "description": "Products are fresh from the farm.",
+        "price": 4.39,
+        "quantity": 92,
+        "category": "dairy"
+    },
+    "098": {
+        "name": "Eggplants",
+        "description": "Products are natural and nourishing.",
+        "price": 5.26,
+        "quantity": 33,
+        "category": "vegetables"
+    },
+    "099": {
+        "name": "Cucumbers",
+        "description": "Products are natural and nourishing.",
+        "price": 3.73,
+        "quantity": 30,
+        "category": "vegetables"
+    },
+    "100": {
+        "name": "Chocolate",
+        "description": "Products are perfect for a quick bite.",
+        "price": 12.04,
+        "quantity": 51,
+        "category": "snacks"
+    }
+}
